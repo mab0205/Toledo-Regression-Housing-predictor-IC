@@ -1,0 +1,5 @@
+{
+    "fit_intercept": ["True, False"],
+    "n_jobs": ["None", -1],
+    "positive": ["False"]
+}

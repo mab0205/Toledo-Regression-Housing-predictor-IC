@@ -1,0 +1,5 @@
+{
+    "svr__C": [0.1, 1, 10],
+    "svr__kernel": ["linear", "rbf"],
+    "svr__gamma": [0.01, 0.1]
+}
